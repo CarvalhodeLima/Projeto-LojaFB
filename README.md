@@ -1,6 +1,6 @@
 Grupo: Felipe Bezerra, Claudio Gabriel
 
-#Projeto Loja
+# Projeto Loja
 
 Sistema de gerenciamento de uma loja virtual, desenvolvido em Java, utilizando Maven para gerenciamento de dependências e MySQL como banco de dados
 
