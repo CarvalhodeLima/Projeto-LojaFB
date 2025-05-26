@@ -1,4 +1,4 @@
-Grupo: Felipe Bezerra, Claudio Lobo
+Grupo: Felipe Bezerra, Claudio Gabriel
 
 #Projeto Loja
 
