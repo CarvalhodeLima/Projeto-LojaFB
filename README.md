@@ -20,7 +20,6 @@ Sistema de gerenciamento de uma loja virtual, desenvolvido em Java, utilizando M
 
 ## Como executar
 
-1. Clone o repositório:
+1. Clone o repositório
 2. Configure o banco de dados e execute o script `BancoLoja.sql` que está em src/main/resources
 3. Compile e execute
-4. Senha de acesso do banco: 1234
