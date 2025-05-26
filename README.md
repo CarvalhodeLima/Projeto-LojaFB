@@ -22,4 +22,9 @@ Sistema de gerenciamento de uma loja virtual, desenvolvido em Java, utilizando M
 
 1. Clone o repositório
 2. Configure o banco de dados e execute o script `BancoLoja.sql` que está em src/main/resources
-3. Compile e execute
+3. Compile o projeto: `mvn clean install` 
+4. Execute: `mvn exec:java`
+
+ Todas as dependências já estão inclusas em `pom.xml` 
+ Confirme se o MySQL está ativo e utilize a senha `1234` para acessar o servidor
+
