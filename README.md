@@ -11,7 +11,7 @@ Sistema de gerenciamento de uma loja virtual, desenvolvido em Java, utilizando M
 - Registro e consulta de pedidos.
 - Conexão com banco de dados MySQL via JDBC.
 
-## Sistemas usados
+## Sistemas
 
 - Java 17+
 - Maven
